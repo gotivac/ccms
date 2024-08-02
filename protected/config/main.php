@@ -98,11 +98,6 @@ return array(
     'params' => array(
         // this is used in contact page
         'adminEmail' => 'gotivac@gmail.com',
-        'bundles' =>array(20, 50, 100, 200, 500),
-        'vat' => 19,
-        'google_client_id' => '654691408225-m27d4ulc2kf1p8l3jumm1ci88imhnv6r.apps.googleusercontent.com', // 437453127224-rikcihkprsdprj15qso3ov1paj5lju0m.apps.googleusercontent.com',
-        'google_distance_matrix_api' => 'AIzaSyB_xC-iOykKwMUTJfEpmd1EaD5JB7rtodo',
-        'google_geocoding_api' => 'AIzaSyBxo-eLk1t5qVjNDRGXqLZs2Kmzl06Nrv8',
         'adminDelete' => 'false',
         
     ),
