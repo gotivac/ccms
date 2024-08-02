@@ -1,0 +1,2 @@
+[13-Jan-2020 10:49:50 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/otwd/public_html/prelovedgold.com.au/admin/kcfinder/core/autoload.php on line 43
+[13-Jan-2020 18:19:11 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/otwd/public_html/prelovedgold.com.au/admin/kcfinder/core/autoload.php on line 43
