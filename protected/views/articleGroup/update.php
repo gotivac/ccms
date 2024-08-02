@@ -1,7 +1,7 @@
 <?php
 $this->breadcrumbs=array(
 	Yii::t('app','Article Groups')=>array('index'),
-	$model->title=>array('view','id'=>$model->id),
+	$model->title=>array('update','id'=>$model->id),
 	Yii::t('app','Update'),
 );
 
