@@ -23,7 +23,7 @@
         $cs->registerCssFile($baseUrl . '/css/layout.css');
         $cs->registerCssFile($baseUrl . '/plugins/nestable/nestable.css');
         $cs->registerCssFile($baseUrl . '/plugins/bootstrap.select/css/bootstrap-select.min.css');
-        $cs->registerCssFile($baseUrl . '/css/otwd.css');
+        $cs->registerCssFile($baseUrl . '/css/style.css');
 
         $cs->registerCssFile($baseUrl . '/plugins/dropzone/dropzone.min.css');
         $cs->registerScriptFile($baseUrl . '/plugins/dropzone/dropzone.min.js');

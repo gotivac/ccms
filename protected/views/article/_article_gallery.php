@@ -84,7 +84,7 @@ $this->beginWidget('booster.widgets.TbModal', array(
 
         });
 
-        $('img').on('click',function(){
+        $('img').on('dblclick',function(){
             let image = $(this);
 
             $('#modal-title').html(image.prop('src'));

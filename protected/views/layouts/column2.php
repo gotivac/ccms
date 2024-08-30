@@ -123,7 +123,7 @@
 
             <!-- Logo -->
             <span class="logo pull-left">
-            <h1 style="color:#fff !important">CCMS</h1>
+            <img src="<?=Yii::app()->baseUrl;?>/img/logo.png" class="img-responsive" style="max-height: 46px">
         </span>
 
 

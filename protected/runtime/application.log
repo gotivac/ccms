@@ -13454,3 +13454,19 @@ Stack trace:
 #16 {main}
 REQUEST_URI=/ccms/download
 ---
+2024/08/30 12:15:15 [warning] [application] Failed to set unsafe attribute "id" of "Menu".
+in /var/www/html/ccms/protected/extensions/MultilingualActiveRecord/MultilingualActiveRecord.php (22)
+in /var/www/html/ccms/protected/controllers/MenuController.php (118)
+in /var/www/html/ccms/index.php (19)
+2024/08/30 12:15:15 [warning] [application] Failed to set unsafe attribute "id" of "Menu".
+in /var/www/html/ccms/protected/extensions/MultilingualActiveRecord/MultilingualActiveRecord.php (22)
+in /var/www/html/ccms/protected/controllers/MenuController.php (118)
+in /var/www/html/ccms/index.php (19)
+2024/08/30 12:15:15 [warning] [application] Failed to set unsafe attribute "id" of "Menu".
+in /var/www/html/ccms/protected/extensions/MultilingualActiveRecord/MultilingualActiveRecord.php (22)
+in /var/www/html/ccms/protected/controllers/MenuController.php (118)
+in /var/www/html/ccms/index.php (19)
+2024/08/30 12:15:15 [warning] [application] Failed to set unsafe attribute "id" of "Menu".
+in /var/www/html/ccms/protected/extensions/MultilingualActiveRecord/MultilingualActiveRecord.php (22)
+in /var/www/html/ccms/protected/controllers/MenuController.php (118)
+in /var/www/html/ccms/index.php (19)

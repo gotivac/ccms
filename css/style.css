@@ -21,8 +21,8 @@ Bootstrap overwrite stylesheet
 
 .nav-pills > li > a {
     background-color: #7c2020;
-
     color: #fff;
+
 }
 
 #middle {
@@ -321,4 +321,15 @@ li.sortable-placeholder {
 }
 .cke_source {
     white-space: pre-wrap !important;
+}
+
+.btn-success {
+    min-width: 120px !important;
+}
+
+section .nav-pills>li>a {
+    min-width: 120px;
+    padding:8px 15px;
+    margin-bottom:6px;
+    letter-spacing:1px;
 }

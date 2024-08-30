@@ -64,7 +64,9 @@ body {
 	direction: ltr;
 	overflow-x:hidden;
 	font-size:14px;
-	font-family:'Open Sans';
+	/* font-family:'Open Sans'; */
+	font-family: 'Roboto';
+
 }
 
 ::selection {
